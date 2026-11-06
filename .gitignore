@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter-generated files
+.ipynb_checkpoints/
+
+# SQLite temporary journal
+*-journal
